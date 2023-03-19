@@ -4,7 +4,7 @@
 
 Zaprojektuj i napisz aplikację, której celem będzie wyświetlanie informacji o piwach! Pamiętaj, że podczas oceniania będą brane pod uwagę zarówno jakość kodu, jak i “feeling” aplikacji. Dodatkowa inwencja twórcza jest jak najbardziej mile widziana, dlatego nie bój się zagłębić w dokumentację i zaproponować autorskie rozwiązania! :)
 
-Aplikacje możesz stworzyć natywnie na Androida, iOSa, bądź wykorzystać multiplatformowe rozwiązanie w technologii Flutter lub React Native.
+Aplikacje stwórz natywnie na Androida, iOSa. Użyj takich bibliotek i narzędzi jakich tylko potrzebujesz!
 
 Do uzyskania danych skorzystaj z otwartego API: https://punkapi.com/documentation/v2 
 

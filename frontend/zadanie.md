@@ -4,7 +4,7 @@
 
 Zaprojektuj i napisz aplikację, której celem będzie wyświetlanie informacji o piwach! Pamiętaj, że podczas oceniania będą brane pod uwagę zarówno jakość kodu, jak i “feeling” aplikacji. Dodatkowa inwencja twórcza jest jak najbardziej mile widziana, dlatego nie bój się zagłębić w dokumentację i zaproponować autorskie rozwiązania! :)
 
-Aplikacje możesz stworzyć w JavaScriptcie lub TypeScriptcie, z użyciem dowolnych frameworków czy bibliotek, preferowany jednak jest React.
+Aplikacje możesz stworzyć w JavaScriptcie lub TypeScriptcie, z użyciem dowolnych frameworków czy bibliotek. Pamiętaj jednak, że w projektach naszego Koła wykorzystujemy głównie Reacta.
 
 Do uzyskania danych skorzystaj z otwartego API: https://punkapi.com/documentation/v2 
 
