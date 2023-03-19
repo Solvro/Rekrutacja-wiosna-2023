@@ -8,7 +8,7 @@
 
 ---
 
-- [Social Media](https://forms.gle/2jjPQHKh7p9Ma7wH7) **Równocześnie jest to formularz zgłoszeniowy!**
+- [Social Media](https://forms.gle/2jjPQHKh7p9Ma7wH7) **Równocześnie jest to formularz zgłoszeniowy tylko dla osób zgłaszających się na Social Media!**
 
 ---
 
