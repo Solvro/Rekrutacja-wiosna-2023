@@ -17,7 +17,7 @@
 
 ---
 
-Termin zgłaszania swoich rozwiązań to **09.04 23:59**!
+Termin zgłaszania swoich rozwiązań to **16.04 23:59**!
 
 Wybierz zadanie, a rozwiązanie udostępnij nam w postaci linka do swojego repozytorium (nie musi być github!)
 

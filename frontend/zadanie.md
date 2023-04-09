@@ -1,6 +1,6 @@
 # Frontend
 
-**Termin wykonania zadania: 09.04 23:59**
+**Termin wykonania zadania: 16.04 23:59**
 
 Zaprojektuj i napisz aplikację, której celem będzie wyświetlanie informacji o piwach! Pamiętaj, że podczas oceniania będą brane pod uwagę zarówno jakość kodu, jak i “feeling” aplikacji. Dodatkowa inwencja twórcza jest jak najbardziej mile widziana, dlatego nie bój się zagłębić w dokumentację i zaproponować autorskie rozwiązania! :)
 
